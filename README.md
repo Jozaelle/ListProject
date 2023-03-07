@@ -45,4 +45,3 @@ Start the server
 
 <img width="1668" alt="Screenshot 2023-03-06 at 8 47 26 PM" src="https://user-images.githubusercontent.com/97193394/223300780-2a3ed053-8592-46db-b5e0-a055256f4d33.png">
 
-<img width="1668" alt="Screenshot 2023-03-06 at 8 47 26 PM" src="https://user-images.githubusercontent.com/97193394/223300881-29958200-1e71-45b1-9d5c-76e4a4772aba.png">
